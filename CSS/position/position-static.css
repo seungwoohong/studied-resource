@@ -1,0 +1,12 @@
+.box1, .box2, .box3 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px orangered;
+    background: yellow;
+    position: static;
+}
+
+.span1, .span2, .span3 {
+    position: static;
+    background: goldenrod;
+}

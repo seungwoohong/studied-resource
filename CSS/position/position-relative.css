@@ -1,0 +1,30 @@
+.box1, .box2, .box3 {
+    width: 50px;
+    height: 50px;
+    border: solid 1px orangered;
+    background: yellow;
+}
+
+.span1, .span2, .span3 {
+    background: goldenrod;
+}
+
+.box2 {
+    position: relative;
+}
+
+.box3 {
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+.span1 {
+    position: relative;
+}
+
+.span2 {
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
